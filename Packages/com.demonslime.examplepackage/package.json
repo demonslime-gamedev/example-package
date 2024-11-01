@@ -1,0 +1,7 @@
+{
+  "name": "com.demonslime.examplepackage",
+  "version": "1.0.0",
+  "displayName": "Example Package",
+  "description": "This is an example package",
+  "unity": "6000.0"
+}
